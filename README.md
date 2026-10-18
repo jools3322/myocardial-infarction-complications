@@ -29,6 +29,7 @@ The notebook reads the original data file directly.
 
 - `MSB1015_Project_MI_Jools_Parren.ipynb` — Main Jupyter Notebook containing the complete analysis, code, figures, and results.
 - `README.md` — Project description and instructions for reproducing the analysis.
+- `figures/` — Contains nine generated figures from Parts 4–7, including model performance, temporal analysis, feature importance, and clinical pathway visualizations.
 
 The dataset (`MI.data`) can be downloaded from the UCI Machine Learning Repository using the link provided above. 
 
